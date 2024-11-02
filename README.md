@@ -36,12 +36,3 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 ## License
 
 This project is open-source and available under 
-
-### Instructions for Use:
-1. **Create the Repository**: Go to GitHub and create a new repository with the name `pokemon-search-app`.
-2. **Add Description**: Use the description provided above when setting up the repository.
-3. **Create README.md**: Create a new file in the repository named `README.md` and paste the content above into that file. Make sure to replace `your-username` with your actual GitHub username in the clone URL.
-4. **Commit Changes**: Save and commit the changes to your repository.
-
-Feel free to modify any part of the README as needed! If you have any specific features or sections you'd like to add, let me know!
-the MIT License.
